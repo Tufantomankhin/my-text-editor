@@ -1,0 +1,11 @@
+.text-header{
+    align-items: center;
+    justify-content: center;
+}
+.text-editor{
+    background-color: rgba(62, 191, 242, 0.859);
+    height: 700px;
+    width: 700px;
+    align-items: center;
+    text-align: center;
+}
